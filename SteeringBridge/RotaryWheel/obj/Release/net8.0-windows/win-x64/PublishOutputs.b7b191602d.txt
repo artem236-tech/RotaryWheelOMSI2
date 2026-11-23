@@ -1,0 +1,7 @@
+E:\PROJECT X\SteeringBridge\dist\RotaryWheel.exe
+E:\PROJECT X\SteeringBridge\dist\RotaryWheel.dll
+E:\PROJECT X\SteeringBridge\dist\RotaryWheel.deps.json
+E:\PROJECT X\SteeringBridge\dist\RotaryWheel.runtimeconfig.json
+E:\PROJECT X\SteeringBridge\dist\RotaryWheel.pdb
+E:\PROJECT X\SteeringBridge\dist\SharpDX.dll
+E:\PROJECT X\SteeringBridge\dist\SharpDX.DirectInput.dll

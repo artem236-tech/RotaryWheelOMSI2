@@ -1,0 +1,15 @@
+E:\PROJECT X\SteeringBridge\RotaryWheel.Tests\bin\Release\net8.0\RotaryWheel.Tests.exe
+E:\PROJECT X\SteeringBridge\RotaryWheel.Tests\bin\Release\net8.0\RotaryWheel.Tests.deps.json
+E:\PROJECT X\SteeringBridge\RotaryWheel.Tests\bin\Release\net8.0\RotaryWheel.Tests.runtimeconfig.json
+E:\PROJECT X\SteeringBridge\RotaryWheel.Tests\bin\Release\net8.0\RotaryWheel.Tests.dll
+E:\PROJECT X\SteeringBridge\RotaryWheel.Tests\bin\Release\net8.0\RotaryWheel.Tests.pdb
+E:\PROJECT X\SteeringBridge\RotaryWheel.Tests\obj\Release\net8.0\RotaryWheel.Tests.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECT X\SteeringBridge\RotaryWheel.Tests\obj\Release\net8.0\RotaryWheel.Tests.AssemblyInfoInputs.cache
+E:\PROJECT X\SteeringBridge\RotaryWheel.Tests\obj\Release\net8.0\RotaryWheel.Tests.AssemblyInfo.cs
+E:\PROJECT X\SteeringBridge\RotaryWheel.Tests\obj\Release\net8.0\RotaryWheel.Tests.csproj.CoreCompileInputs.cache
+E:\PROJECT X\SteeringBridge\RotaryWheel.Tests\obj\Release\net8.0\RotaryWheel.Tests.dll
+E:\PROJECT X\SteeringBridge\RotaryWheel.Tests\obj\Release\net8.0\refint\RotaryWheel.Tests.dll
+E:\PROJECT X\SteeringBridge\RotaryWheel.Tests\obj\Release\net8.0\RotaryWheel.Tests.pdb
+E:\PROJECT X\SteeringBridge\RotaryWheel.Tests\obj\Release\net8.0\RotaryWheel.Tests.genruntimeconfig.cache
+E:\PROJECT X\SteeringBridge\RotaryWheel.Tests\obj\Release\net8.0\ref\RotaryWheel.Tests.dll
+E:\PROJECT X\SteeringBridge\RotaryWheel.Tests\obj\Release\net8.0\RotaryWh.8020774F.Up2Date

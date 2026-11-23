@@ -1,0 +1,22 @@
+{
+  "DeviceId": "xinput:0",
+  "RightStick": false,
+  "DirectAxisX": "RotationX",
+  "DirectAxisY": "RotationX",
+  "MonitorOnly": false,
+  "CenterButton": 10,
+  "VJoyId": 1,
+  "AxisUsage": 48,
+  "VJoyDll": "C:\\Program Files\\vJoy\\x64\\vJoyInterface.dll",
+  "PollHz": 250,
+  "Wheel": {
+    "Deadzone": 0.2,
+    "Sensitivity": 1,
+    "MaxAngleDegrees": 900,
+    "SmoothingMs": 20,
+    "Invert": true,
+    "CenterX": 0,
+    "CenterY": 0
+  },
+  "TraceSamples": true
+}
